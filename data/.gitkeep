@@ -1,0 +1,2 @@
+# Keeps the writable data/ directory in git.
+# The SQLite database (pizzaco.sqlite) is created & seeded here on first run.
