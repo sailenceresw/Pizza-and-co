@@ -1,4 +1,4 @@
-# Pizza & Co Thornaby — Takeaway Website
+# Pizza & Co Thornaby Takeaway Website
 
 A full, runnable takeaway-ordering website built with **HTML, CSS, JavaScript
 and PHP** (PDO + SQLite). Coursework project structured explicitly around the
